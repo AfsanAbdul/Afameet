@@ -1,0 +1,466 @@
+@media screen and (max-width: 1200px) {
+    header .centerp .centerpone {
+        font-size: 285px;
+    }
+
+    header .centerp .centerptwo {
+        font-size: 18px;
+    }
+
+    .over {
+        padding: 15px 30px;
+    }
+
+    .over h6, .three h6, .wfourover h6, .menud, .footerhead {
+        font-size: 23px;
+    }
+
+    .over h2, .wfourover h2 {
+        padding: 0px 50px;
+    }
+
+    .over h2:after {
+        left: 88%;
+        top: 39%;
+    }
+
+    .over h2:before {
+        left: 12%;
+        top: 39%;
+    }
+}
+
+
+@media screen and (max-width: 1200px) and (min-width: 992px) {
+            /*About-us */
+    #about p {
+        font-size: 18px;
+    }
+
+    .img-hide button {
+        padding: 7px 25px;
+        margin-top: 0px;
+    }
+
+    .img-hide p, .img-hide h3 {
+        margin-top: 20px;
+    }
+
+                /*contact*/
+
+    .reserve-part h1 {
+        margin: 2em 0 0 30px;
+    }
+}
+
+@media screen and (max-width: 992px) and (min-width: 768px) {
+                /*About-us */
+    #menu .col-md-6.col-sm-12.col-xs-12 {
+        padding: 0
+    }
+
+    .sm-alt {
+        margin-bottom: 10px;
+    }
+
+    #about p {
+        font-size: 18px;
+        color: #545353;
+    }
+
+    img.img-responsive.aboutfimg {
+        transform: translateY(20%);
+    }
+
+    .img-hide p, .img-hide h3 {
+        margin-top: 60px;
+    }
+
+                /*contact*/
+
+    #about hr {
+        width: 41%;
+    }
+
+    #special hr {
+        width: 38%;
+    }
+
+    .focus-input1 , .focus-input2 {
+        left: 3%;
+        top: 98%;
+    }
+
+    .wrap-contact h2 {
+        font-size: 60px;
+        line-height: 1;
+    }
+
+    .wrap-contact .input-part ,
+    .wrap-contact .input-part {
+        font-size: 17px;
+    }
+
+    .wrap-input {
+        margin-bottom: 50px;
+    }
+
+    .wrap-contact {
+        padding: 30px 60px 33px 60px;
+    }
+
+    .reserve-part h1 {
+        font-size: 85px;
+        margin: 2em 0 0 0;
+    }
+
+    .col-md-7.col-sm-7.col-xs-12 {
+        padding:0;
+    }
+
+                /*Home */
+    header .centerp {
+        top: 40%;
+    }
+
+    section#myworkone .onemd {
+        margin-top: 105px;
+        margin-left: 50px;
+    }
+
+    .over h2 {
+        padding: 0px 20px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+                /*Home */
+    header .centerp {
+        top: 35%;
+        transform: translate(-40%, -50%);
+    }
+
+    header .centerp .centerpone {
+        font-size: 230px;
+    }
+
+    header .centerp .centerptwo {
+        font-size: 15px;
+        padding: 0px 25px;
+    }
+
+    .over {
+        padding: 15px 40px;
+    }
+
+    .three h6, .wfourover h6, .menud, .footerhead {
+        font-size: 15px;
+    }
+
+    .over h2, .wfourover h2 {
+        padding: 0px 35px;
+    }
+
+    p.welcome,.three h2, .wfourover h2, .ourdel {
+        font-size: 35px;
+    }
+
+    section#myworkthree .imageunder {
+        font-size: 16px;
+    }
+
+    .ourmenu {
+        padding: 53px;
+    }
+
+    section#myworkfour .col-md-4 {
+        margin-top: 15px;
+    }
+
+    .over h2:before {
+        left: 24%;
+        top: 44%;
+    }
+
+    .over h2:after {
+        left: 76%;
+        top: 44%;
+    }
+
+    section#myworkone .onemd {
+        margin-top: 100px;
+    }
+
+    .over h2 {
+        padding: 5px 60px;
+        font-size: 45px;
+    }
+
+    .over h6 {
+        font-size: 20px;
+    }
+
+    .over {
+        padding: 30px 90px;
+    }
+
+                /*About-us */
+
+    .sm-alt {
+        margin-bottom: 10px;
+    }
+
+    #special hr {
+        width: 39%;
+    }
+
+    .img-hide p, .img-hide h3 {
+        margin-top: 40px;
+    }
+
+                /*contact*/
+
+    .focus-input1 , .focus-input2 {
+        left: 3%;
+        top: 98%;
+    }
+
+    .wrap-contact h2 {
+        font-size: 60px;
+        line-height: 1;
+    }
+
+    .wrap-contact .input-part ,
+    .wrap-contact .input-part {
+        font-size: 17px;
+    }
+
+    .wrap-input {
+        margin-bottom: 50px;
+    }
+
+    .wrap-contact {
+        padding: 20px 30px 20px 30px;
+    }
+
+    .reserve-part h1 {
+        margin:0;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+}
+
+@media (width:768px) {
+    .over {
+        padding: 15px 30px !important;
+    }
+
+    .over h2 {
+        font-size: 55px !important;
+        padding: 0px 20px;
+    }
+    
+    .over h2:before {
+        left: 15%;
+        top: 39%;
+    }
+
+    .over h2:after {
+        left: 84%;
+        top: 39%;
+    }
+
+                /*Contact*/
+    .reserve-part h1 {
+        font-size: 85px;
+        margin: 3em 0 0 0;
+    }
+
+    .col-md-7.col-sm-7.col-xs-12 {
+        padding:0;
+    }
+
+}
+
+@media (max-width:640px) and (min-width:470px) {
+    header .centerp {
+        top: 23%;
+    }  
+
+    header .centerp .centerpone {
+        font-size: 160px;
+    }
+
+    .img-hide p, .img-hide h3 {
+        margin-top: 20px;
+    }
+
+                /*Contact*/
+    .reserve-part h1 {
+        font-size: 75px;
+        margin-bottom: 20px
+    }
+}
+
+@media only screen and (max-width:470px) {
+    header .centerp {
+        top: 19%;
+    }
+
+    .over h2:before {
+        left: 18%;
+        top: 36%;
+    }
+
+    .over h2:after {
+        left: 82%;
+        top: 36%;
+    }
+
+    header .carousel-indicators {
+        left: 95%;
+    }
+
+    header .carousel-indicators li {
+        width: 8px;
+        height: 8px;
+    }
+
+    header .carousel-indicators .active {
+        width: 10px;
+        height: 10px;
+    }
+
+    header .centerp .centerptwo {
+        font-size: 7px;
+        padding: 0px 10px 0 10px;
+    }
+
+    header .centerp .centerpone {
+        font-size: 101px;
+    }
+
+    section#myworkone, section#myworktwo, 
+    section#myworkthree, .fourfirst, 
+    .best, header {
+        padding-bottom: 20px
+    }
+
+    section#myworkone .onemd {
+        margin-top: 0px;
+    }
+
+    .over {
+        padding: 20px 45px;
+    }
+
+    .over h6, .three h6, .wfourover h6,
+     .menud, .footerhead {
+        font-size: 18px;
+    }
+
+    .over h2, .wfourover h2 {
+        padding: 0px 50px;
+    }
+
+    p.welcome, .over h2, .three h2, 
+    .wfourover h2, .ourdel {
+        font-size: 40px;
+    }
+
+    section#myworktwo img {
+        margin-bottom: 10px
+    }
+
+    .wfourover {
+        padding: 10px 20px;
+    }
+
+    section#myworkfour .rel:before {
+        left: 43%;
+    }
+
+    section#myworkfour .col-md-4 {
+        margin-top: 20px
+    }
+
+    .ourmenu {
+        padding: 50px;
+    }
+
+    footer .col-md-6 {
+        font-size: 10px
+    }
+
+    .ourdel {
+        padding: 0px 20px;
+    }
+
+    section#myworkfour a {
+        padding: 8px 12px;
+    }
+
+    p.text-justify ,section#myworkfour .parag ,
+    section#myworkthree p , h2 span.the , p.footerparag {
+        font-size: 13px; 
+    }
+
+    h2 span.Afa {
+        font-size: 21px;
+    }
+
+                /*About-us*/
+    #about p {
+        font-size: 16px;
+    }
+
+    #about h2, #special h2, #menu h2 {
+        font-size: 60px;
+    }
+
+    #about hr:after, #special hr:after , #menu hr:after  {
+        left: 63%;
+        top: 70px;
+    }
+
+    #about hr:before, #special hr:before , #menu hr:before {
+        left: 37%;
+        top: 70px;
+    }
+
+    #about hr, #special hr, #menu hr {
+        width: 30%;
+    }
+
+    .img-hide h3 {
+        margin-top: 15px;
+        font-size: 15px;
+    }
+
+    .img-hide p {
+        margin-top: 5px;
+        font-size: 13px;
+    }
+
+    .img-hide button {
+        font-size: 13px;
+        padding: 8px 20px;
+        margin-top: 0;
+    }
+
+                /*Contact*/
+    .wrap-contact {
+        padding: 5px 5px 10px 5px;
+    }
+
+    .reserve-part .form-wrap .tab-content {
+        padding: 10px;
+    }
+
+        .reserve-part h1 {
+        font-size: 65px;
+        margin-bottom: 20px
+    }
+
+}
